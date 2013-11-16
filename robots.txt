@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://victor3d.github.io/sitemap.xml 
